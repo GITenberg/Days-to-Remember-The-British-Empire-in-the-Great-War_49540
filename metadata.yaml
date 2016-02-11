@@ -1,0 +1,40 @@
+_repo: Days-to-Remember-The-British-Empire-in-the-Great-War_49540
+creator:
+  authors:
+  - agent_name: Newbolt, Henry John, Sir
+    birthdate: 1862
+    deathdate: 1938
+    gutenberg_agent_id: '5279'
+    url: http://www.gutenberg.org/2009/agents/5279
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Newbolt
+  - agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: ''
+gutenberg_issued: '2015-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+tableOfContents: The causes of the war -- A bird's-eye view of the war -- The turn
+  at the Marne -- The Worcesters at the First Battle of Ypres -- The Canadians at
+  the Second Battle of Ypres -- The taking of Loos -- Delville Wood -- The Third Battle
+  of Ypres -- The tanks at Cambrai -- The South Africans at Marrières Wood -- The
+  Battle of the Lys -- The Second Battle of the Marne -- The beginning of the end
+  -- The Australians at Mont St. Quentin -- The last battle -- The landing at Gallipoli
+  -- The departure from Gallipoli -- The capture of Jerusalem -- Allenby's great drive
+  -- The silent service -- Coronel -- The Falklands -- Mystery ships -- Jutland --
+  The British submarine service -- The Mercantile Marine and the Fishing Fleets --
+  Zeebrugge -- Behind the lines and at home -- The last day -- Looking backward.
+title: 'Days to Remember: The British Empire in the Great War'
+url: http://www.gutenberg.org/ebooks/49540
